@@ -13,7 +13,7 @@ I created a work day schedule that allowed you to freely change any events you e
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Author](#author
+- [Author](#author)
 
 ## Usage
 
