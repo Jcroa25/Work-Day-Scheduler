@@ -8,7 +8,7 @@ var container = $(".container")
 
 $(document).ready(function () { 
 
-Let   $("#currentDay").text(moment().format("MMMM Do YYYY, h:mm:ss a"));
+Let$("#currentDay").text(moment().format("MMMM Do YYYY, h:mm:ss a"));
 
     
 
