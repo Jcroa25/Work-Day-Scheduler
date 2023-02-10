@@ -30,6 +30,6 @@ Clone repo and start planning your day!
 
 This project is licensed under The MIT License
 
-### Author
+## Author
 
 Jcroa25
